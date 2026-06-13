@@ -1,0 +1,32 @@
+# Datos y multimedia pesados
+*.wav
+*.flac
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.zip
+*.rar
+*.7z
+
+# Documentos internos y datos potencialmente sensibles
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+
+# Credenciales y configuracion local
+.env
+.env.*
+*.key
+*.pem
+credentials.*
+secrets.*
+
+# Archivos del sistema y temporales
+.DS_Store
+Thumbs.db
+~$*
+*.asv
+
