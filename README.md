@@ -1,32 +1,43 @@
-# Posidonia Soundscapes
+# Posidonia Soundscapes: Conservation & Music, Ibiza
 
-Repositorio publico del proyecto Posidonia Soundscapes.
+Posidonia Soundscapes is an interdisciplinary project connecting marine
+soundscape research, the conservation of *Posidonia oceanica* meadows, and
+music in Ibiza. This public repository gathers reusable methods, code,
+selected acoustic examples, metadata, figures, and research outputs.
 
-> Estado: estructura inicial en preparacion.
+> **Status:** Active repository. Materials will be added as they are reviewed
+> for scientific quality, authorship, privacy, and reuse permissions.
 
-## Objetivo
+## Repository contents
 
-Documentar y compartir resultados, recursos y herramientas relacionados con
-los paisajes sonoros de las praderas de *Posidonia oceanica*.
+| Directory | Contents |
+|---|---|
+| [`scripts/`](scripts/) | MATLAB, Python, and notebook-based analysis tools |
+| [`characteristic-sounds/`](characteristic-sounds/) | Curated short sound clips and metadata records |
+| [`data/`](data/) | Small CSV files, metadata, and data dictionaries |
+| [`figures/`](figures/) | Spectrograms, maps, and derived visual results |
+| [`methods/`](methods/) | Equipment, deployment, calibration, and processing methods |
+| [`publications/`](publications/) | Publications, DOI records, presentations, and related links |
+| [`outreach/`](outreach/) | Music, art, education, and public-engagement activities |
 
-## Contenido
+## Data access
 
-- [Catalogo de datasets](datasets/README.md)
-- [Scripts y herramientas](scripts/README.md)
-- [Investigacion](links/investigacion.md)
-- [Arte y divulgacion](links/arte-divulgacion.md)
+The complete acoustic recordings are too large for GitHub and are not stored
+in this repository. Researchers who need access to the underlying data may
+submit a justified request to
+[neus.perez@uca.es](mailto:neus.perez@uca.es) or
+[servicioacustica.inmar@uca.es](mailto:servicioacustica.inmar@uca.es).
+Access is subject to data ownership, ethical, legal, and collaboration terms.
 
-## Datos
+## Reuse and citation
 
-Los conjuntos de datos se describiran mediante fichas de metadatos. Cuando los
-archivos sean demasiado grandes para GitHub, se incluira el DOI o enlace al
-repositorio de datos.
+Code is released under the [MIT License](LICENSE). Data, figures, and sound
+clips explicitly identified as reusable are released under
+[CC BY 4.0](LICENSE-DATA.md). Third-party material retains its original terms.
+Please use [`CITATION.cff`](CITATION.cff) to cite this repository.
 
-## Como citar
+## Contact
 
-Pendiente: anadir cita recomendada, autores, afiliaciones, DOI y licencia.
-
-## Contacto
-
-Pendiente: anadir contacto publico del proyecto.
-
+**Neus Perez Gimeno**<br>
+University Institute of Marine Research (INMAR), University of Cadiz<br>
+[neus.perez@uca.es](mailto:neus.perez@uca.es)

@@ -1,22 +1,36 @@
-# Datos y multimedia pesados
+# Raw audio, video, archives, and large binary data
 *.wav
 *.flac
 *.mp3
+*.m4a
 *.mp4
 *.mov
 *.avi
 *.zip
 *.rar
 *.7z
+*.mat
+*.fig
 
-# Documentos internos y datos potencialmente sensibles
+# Allow only reviewed public audio clips in this directory
+!characteristic-sounds/**/*.wav
+!characteristic-sounds/**/*.flac
+!characteristic-sounds/**/*.mp3
+!characteristic-sounds/**/*.m4a
+
+# Locally generated analysis products
+/analysis/
+/data/raw/
+/data/private/
+
+# Internal office documents and potentially restricted material
 *.pdf
 *.doc
 *.docx
 *.xls
 *.xlsx
 
-# Credenciales y configuracion local
+# Credentials and local configuration
 .env
 .env.*
 *.key
@@ -24,9 +38,11 @@
 credentials.*
 secrets.*
 
-# Archivos del sistema y temporales
+# MATLAB, Jupyter, editor, and operating-system files
+*.asv
+*.autosave
+.ipynb_checkpoints/
+.vscode/
 .DS_Store
 Thumbs.db
 ~$*
-*.asv
-

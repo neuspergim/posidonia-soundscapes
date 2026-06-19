@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Posidonia Soundscapes: Conservation & Music, Ibiza"
+type: software
+authors:
+  - family-names: "Perez Gimeno"
+    given-names: "Neus"
+    affiliation: "University Institute of Marine Research (INMAR), University of Cadiz"
+    email: "neus.perez@uca.es"
+repository-code: "https://github.com/neuspergim/posidonia-soundscapes"
+license: MIT
+date-released: 2026-06-19

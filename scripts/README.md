@@ -1,14 +1,17 @@
-# Scripts y herramientas
+# Scripts and analysis tools
 
-Este directorio contendra codigo reutilizable acompañado de:
+This directory will contain reviewed MATLAB, Python, and notebook-based tools
+used in Posidonia Soundscapes. No public scripts have been added yet.
 
-- objetivo del script;
-- requisitos y versiones;
-- instrucciones de instalacion;
-- ejemplo minimo de uso;
-- datos de entrada y resultados esperados;
-- autoria y licencia;
-- prueba o ejemplo que permita comprobar su funcionamiento.
+Every published script should document:
 
-No se deben subir rutas locales, credenciales ni copias de datos restringidos.
+- scientific purpose and scope;
+- software and toolbox requirements;
+- editable user settings;
+- expected inputs and generated outputs;
+- acoustic units, calibration assumptions, and limitations;
+- a minimal example or validation procedure;
+- authorship and licence.
 
+Do not publish local absolute paths, credentials, raw recordings, sensitive
+coordinates, or code whose third-party licence does not permit redistribution.
