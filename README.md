@@ -8,6 +8,11 @@ selected acoustic examples, metadata, figures, and research outputs.
 > **Status:** Active repository. Materials will be added as they are reviewed
 > for scientific quality, authorship, privacy, and reuse permissions.
 
+| Acoustic deployment in a *Posidonia oceanica* meadow | *Posidonia oceanica* soundscape habitat |
+|---|---|
+| ![Diver deploying acoustic monitoring equipment beside a Posidonia oceanica meadow](assets/posidonia-deployment.jpeg) | ![Underwater view of a Posidonia oceanica meadow](assets/posidonia-meadow.jpg) |
+| Photo: Music for the Sea | Photo: @fisharefriends.film and @supersesagrass |
+
 ## Repository contents
 
 | Directory | Contents |
@@ -35,6 +40,8 @@ Code is released under the [MIT License](LICENSE). Data, figures, and sound
 clips explicitly identified as reusable are released under
 [CC BY 4.0](LICENSE-DATA.md). Third-party material retains its original terms.
 Please use [`CITATION.cff`](CITATION.cff) to cite this repository.
+
+Photo credits and reuse terms are documented in [`assets/README.md`](assets/README.md).
 
 ## Contact
 
