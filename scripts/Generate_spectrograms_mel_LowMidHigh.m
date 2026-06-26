@@ -1,4 +1,4 @@
-%% Generate Perch 2.0 Mel spectrogram review batches
+%% Generate Mel spectrogram review panels for Low, Mid, and High bands
 % This script creates standardized Mel-scale spectrogram panels for expert
 % validation of clustered Perch 2.0 audio embeddings.
 %

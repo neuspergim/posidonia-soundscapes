@@ -5,7 +5,7 @@ used in Posidonia Soundscapes.
 
 ## Available scripts
 
-- `Generate_Perch_remaining_batches_mel_protocol.m`: MATLAB script for
+- `Generate_spectrograms_mel_LowMidHigh.m`: MATLAB script for
   generating standardized Mel-scale spectrogram panels for expert validation
   of clustered Perch 2.0 audio embeddings. The public version uses editable
   placeholder paths and does not include local storage locations or raw data.
