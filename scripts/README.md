@@ -1,7 +1,14 @@
 # Scripts and analysis tools
 
-This directory will contain reviewed MATLAB, Python, and notebook-based tools
-used in Posidonia Soundscapes. No public scripts have been added yet.
+This directory contains reviewed MATLAB, Python, and notebook-based tools
+used in Posidonia Soundscapes.
+
+## Available scripts
+
+- `Generate_Perch_remaining_batches_mel_protocol.m`: MATLAB script for
+  generating standardized Mel-scale spectrogram panels for expert validation
+  of clustered Perch 2.0 audio embeddings. The public version uses editable
+  placeholder paths and does not include local storage locations or raw data.
 
 Every published script should document:
 
