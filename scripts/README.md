@@ -18,9 +18,9 @@ frequency bands:
 
 | Spectrogram set | Frequency range | Typical applications |
 | --- | --- | --- |
-| Low | 10-400 Hz | Vessel noise, low-frequency fish pulses, whale sounds, and tonal components |
+| Low | 10-400 Hz | Vessel noise, low-frequency fish pulses, whale sounds and tonal components |
 | Mid | 400-2,000 Hz | Fish calls, pulse series, knocks, modulated calls (e.g., Scorpaenidae sp. signals) |
-| High | 2,000-15,000 Hz | Snaps, whistles, broadband transients, modulated signals, and high-frequency background noise |
+| High | 2,000-15,000 Hz | Snaps, whistles, broadband transients, modulated signals and high-frequency background noise |
 
 This frequency-band approach improves the visualization of signals with
 different spectral characteristics and simplifies expert interpretation
@@ -40,6 +40,8 @@ under the most informative spectral scale.
 
 The public version uses editable placeholder paths and does not include local
 storage locations, raw recordings, or project-specific data.
+
+## Publication checklist
 
 Every published script should document:
 
