@@ -5,7 +5,7 @@ used in Posidonia Soundscapes.
 
 ## Available scripts
 
-## `Generate_spectrograms_mel_LowMidHigh.m`
+### `Generate_spectrograms_mel_LowMidHigh.m`
 
 MATLAB script for generating standardized Mel-scale spectrogram panels from
 audio recordings. The script creates organized collections of spectrograms
